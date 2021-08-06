@@ -1,5 +1,5 @@
 # Unity UILogger
-<img src="C:\Users\Seyed Moein\Documents\Unity Projects\Unity-Procedural-IK-Wall-Walking-Spider-master\media\unitylogo.png" align="right" height="50px">
+<img src="https://github.com/seyedmoeinsaadati/UILogger/blob/main/media/unitylogo.png" align="right" height="50px">
 A Simple tools to log data on scene screen in real-time
 
 If you like this project and/or find it useful, please leave a **Star** on this repository.
